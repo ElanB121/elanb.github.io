@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
 title: Elan Berezovskiy's Website
 description: In progress on creating a website
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "pages"
+  -
+    scope:
+      path: ""
+    values:
+      author: "Elan Berezovskiy"
