@@ -6,11 +6,5 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
-    values:
-      layout: "pages"
-  -
-    scope:
-      path: ""
     values:
       author: "Elan Berezovskiy"
