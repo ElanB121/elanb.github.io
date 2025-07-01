@@ -1,1 +1,4 @@
 site_name: Elan Berezovskiy's Website
+nav:
+  - Home: index.md
+  - Robot Prototype: robot.md
